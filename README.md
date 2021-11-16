@@ -1,4 +1,4 @@
-# Blog
+# BlogPost
 
 ## Built By [Barbara Mutindi](https://github.com/barbaramutindi/)
 
